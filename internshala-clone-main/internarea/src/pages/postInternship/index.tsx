@@ -26,7 +26,7 @@ const index = () => {
     numberOfOpening: "",
     stipend: "",
     startDate: "",
-   //  additionalInfo: "",
+     additionalInfo: "",
   });
   const router = useRouter();
   const [isloading, setisloading] = useState(false);
